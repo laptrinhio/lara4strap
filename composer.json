@@ -8,7 +8,7 @@
         "role": "any"
     }],
     "description": "The basic bootstrap template for tutorials in laptrinh.io",
-    "keywords": ["bootstrap", "laravel", "template", "lập trình"],
+    "keywords": ["bootstrap", "laravel", "template"],
     "license": "MIT",
     "type": "project",
     "repositories": [{
