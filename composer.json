@@ -1,11 +1,11 @@
 {
     "name": "laptrinhio/lara4strap",
-    "version": "0.1.0",
+    "version": "dev-master",
     "authors": [{
         "name": "Lập Trình Sư",
         "email": "contact@laptrinh.io",
         "homepage": "http://laptrinh.io",
-        "role": "any"
+        "role": "Developer"
     }],
     "description": "The basic bootstrap template for tutorials in laptrinh.io",
     "keywords": ["bootstrap", "laravel", "template"],
