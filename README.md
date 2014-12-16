@@ -1,4 +1,4 @@
-# Lara4trap
+# Lara4strap
 
 Template source code cơ bản cho hướng dẫn học lập trình Laravel 4 trên http://laptrinh.io
 
